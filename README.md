@@ -136,4 +136,4 @@ python manage.py runserver
 
 ## 📄 Licencia
 
-No se especifica ninguna licencia en el repositorio actualmente.
+No.
